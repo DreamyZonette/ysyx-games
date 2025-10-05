@@ -1,2 +1,4 @@
 # ysyx-games
-将文件夹放在 ysyx-workbench/am-kernels/kernels 下面即可以使用。
+进入文件夹运行：
+```make ARCH=$(ISA) run```
+即可游玩。
