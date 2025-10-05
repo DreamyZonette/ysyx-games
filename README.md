@@ -9,7 +9,7 @@
 
 | 2048 | 龙文庆 | 
 
-| 扫雷 (saolei) | 廖宇熙 |
+| 扫雷 (mineclearance) | 廖宇熙 |
 
 | 推箱子 (push-box) | 唐宏伟 | 
 
